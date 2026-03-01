@@ -13,3 +13,10 @@ The leadership of Evergreen Health Center has identified growing inefficiencies 
 - Financial stability and patient satisfaction are at risk
 - Current systems lack visibility and control
 - Immediate operational improvements are required
+
+## Dataset Used 
+Hospital Management Dataset
+
+## Data Source
+- <a href="https://www.kaggle.com/datasets">Kaggle</a>
+
