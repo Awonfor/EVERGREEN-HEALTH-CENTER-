@@ -59,3 +59,7 @@ Hospital Management Dataset
 ## Project Model
 ![image alt](https://github.com/Awonfor/EVERGREEN-HEALTH-CENTER-/blob/09a3b3ffbfeb8de25c1517edb3e680a6df467335/Evergreen%20Model%20Snipet.png)
 
+
+# Dashboard Walkthrough (3-Page Overview)
+
+ 
