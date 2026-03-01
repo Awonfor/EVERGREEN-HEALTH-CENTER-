@@ -20,3 +20,18 @@ Hospital Management Dataset
 ## Data Source
 - <a href="https://www.kaggle.com/datasets">Kaggle</a>
 
+## Tools Used
+- Excel    : Data Cleaning and Preprocessing
+- SQL      : Data Validation and querying
+- Power BI : Data Visualization and Dashboard Creation
+
+## Key Perfomance Indicators
+1.	Access & Scheduling Efficiency
+2.	Patient Reliability & Engagement
+3.	Financial Performance & Cash Flow
+4.	Revenue Risk Exposure
+5.	Service Line Performance
+6.	Workforce Utilization
+
+
+
