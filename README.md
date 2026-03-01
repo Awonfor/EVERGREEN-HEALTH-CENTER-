@@ -1,2 +1,15 @@
-# EVERGREEN-HEALTH-CENTER-
+# EVERGREEN-HEALTH-CENTER
 Evergreen Health Center is a healthcare analytics project designed to support data-driven decision-making across scheduling, billing, staffing, and revenue operations. The project leverages Power BI, interactive dashboards, and AI-powered insights to improve transparency, operational efficiency, and financial performance
+
+## Problem Statement
+The leadership of Evergreen Health Center has identified growing inefficiencies that threaten their ability to deliver on their mission of patient-centered care and operational excellence. Rising appointment no-show rates, frequent cancellations, billing and insurance disputes, inaccuracies in patient records, and uneven doctor workload distribution are straining their resources, disrupting care delivery, and impacting both financial stability and patient satisfaction. To uphold their commitment to high-quality, accessible, and transparent healthcare, management of Evergreen requires immediate solutions that will streamline scheduling, strengthen billing and insurance processes, improve the accuracy of patient records, and ensure balanced staff utilization across departments.
+
+### Breakdown of the Problemm Statement
+- Operational inefficiencies are affecting care delivery and performance
+- High appointment no-shows and cancellations reduce utilization
+- Billing and insurance disputes delay revenue collection
+- Inaccurate patient records cause operational and billing errors
+- Uneven doctor’s workload leads to inefficiency and burnout
+- Financial stability and patient satisfaction are at risk
+- Current systems lack visibility and control
+- Immediate operational improvements are required
