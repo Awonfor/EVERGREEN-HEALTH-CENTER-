@@ -33,5 +33,29 @@ Hospital Management Dataset
 - Service Line Performance
 - Workforce Utilization
 
+## Workflow
+
+- Data Ingestion & Cleaning
+    - Standardized appointment statuses
+    - Validated revenue categories
+    - Aligned time dimensions
+- Data Modeling
+    - Relationship modeling across appointments, revenue, doctors, departments, and branches
+    - Measure creation using DAX
+- Core Dashboard Development
+    - Operations Dashboard for scheduling and utilization
+    - Billing Dashboard for revenue and payment analysis
+- AI Insights Enablement
+    - Q&A visual for executive-level natural language exploration
+    - Decomposition Tree for revenue root-cause analysis
+- Insight Validation
+    - Cross-checked KPI consistency across dashboards
+    - Ensured alignment with stakeholder objectives
+- Decision Support Delivery
+    - Clear visibility into inefficiencies
+    - Identification of revenue leakage points
+    - Data-driven foundation for operational improvements
+
+
 
 
