@@ -61,5 +61,6 @@ Hospital Management Dataset
 
 
 # Dashboard Walkthrough (3-Page Overview)
+<img width="697" height="394" alt="image" src="https://github.com/user-attachments/assets/13ea03f0-e296-46df-bdc6-08dda3b84380" />
 
- <!-- Failed to upload "Operational Dashboard Walkthrough GIF.mp4" -->
+
