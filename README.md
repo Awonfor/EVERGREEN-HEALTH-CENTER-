@@ -61,7 +61,13 @@ Hospital Management Dataset
 
 
 # Dashboard Walkthrough (3-Page Overview)
+
+## Operational Dashboard
 <img width="697" height="393" alt="image" src="https://github.com/user-attachments/assets/ccd5a8f0-1d43-4175-8ac7-36071d76cbc2" />
 
+## Bill Dashboard
+<img width="695" height="389" alt="image" src="https://github.com/user-attachments/assets/4771998e-5b0d-4830-8c35-3eac1a0490ca" />
 
+## AI Insights Dashboard
+<img width="695" height="391" alt="image" src="https://github.com/user-attachments/assets/129ef391-b402-4eea-bbef-2cfe0704ad27" />
 
